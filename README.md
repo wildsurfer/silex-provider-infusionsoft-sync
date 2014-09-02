@@ -1,4 +1,4 @@
-silex-provider-infusionsoft-isdk
+silex-provider-infusionsoft-sync
 ================================
 
 This is a Silex service provider for library `wildsurfer/infusionsoft-sync`.

@@ -1,0 +1,7 @@
+/vendor/*
+/bin/phpunit
+infusionsoft.ini
+
+# IDE stuff
+.tags
+.vimprj

@@ -1,4 +1,4 @@
-silex-provider-infusionsoft-sync
+[DEPRECATED] silex-provider-infusionsoft-sync
 ================================
 
 This is a Silex service provider for library `wildsurfer/infusionsoft-sync`.
